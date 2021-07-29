@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 06:00:24</sys_created_on>
+        <sys_id>2c6ef54f1b61301030d4ece4604bcba1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_619592_loaner_re">12c9ac321b21301030d4ece4604bcbff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">12c9ac321b21301030d4ece4604bcbff</sys_scope>
+        <sys_update_name>sys_ui_policy_action_2c6ef54f1b61301030d4ece4604bcba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 06:00:24</sys_updated_on>
+        <table>x_619592_loaner_re_loaner_request</table>
+        <ui_policy display_value="When depot is selected Other field should be mandatory">f02e354f1b61301030d4ece4604bcb04</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
