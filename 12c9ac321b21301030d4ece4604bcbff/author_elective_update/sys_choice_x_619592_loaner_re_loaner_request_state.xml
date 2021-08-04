@@ -21,19 +21,59 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Requested</label>
+            <label>Open</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
             <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 06:06:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>067974451b31301030d4ece4604bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In progress</label>
+            <language>en</language>
+            <name>x_619592_loaner_re_loaner_request</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-04 06:06:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d27974451b31301030d4ece4604bcb8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_619592_loaner_re_loaner_request</name>
+            <sequence>2</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b3a675c71b61301030d4ece4604bcbb1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>13</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,16 +84,16 @@
             <label>Reserved</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
-            <sequence>1</sequence>
+            <sequence>3</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3fa675c71b61301030d4ece4604bcbb3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>14</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -64,16 +104,16 @@
             <label>Deployment prep</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
-            <sequence>2</sequence>
+            <sequence>4</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>fba675c71b61301030d4ece4604bcbb5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>15</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -84,16 +124,16 @@
             <label>Ready For Pickup</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
-            <sequence>3</sequence>
+            <sequence>5</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>bba675c71b61301030d4ece4604bcbb7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>16</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -104,16 +144,16 @@
             <label>Checked Off</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
-            <sequence>4</sequence>
+            <sequence>6</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>7ba675c71b61301030d4ece4604bcbb9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>17</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -124,16 +164,16 @@
             <label>Post deployment</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
-            <sequence>5</sequence>
+            <sequence>7</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>08b675c71b61301030d4ece4604bcbbb</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>18</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -144,16 +184,16 @@
             <label>Closed Complete</label>
             <language>en</language>
             <name>x_619592_loaner_re_loaner_request</name>
-            <sequence>6</sequence>
+            <sequence>8</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-07-29 05:26:25</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c4b675c71b61301030d4ece4604bcbbd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-07-29 05:26:25</sys_updated_on>
+            <sys_updated_on>2021-08-04 06:06:49</sys_updated_on>
             <value>3</value>
         </sys_choice>
     </sys_choice>
